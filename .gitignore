@@ -1,0 +1,27 @@
+data/
+backend/venv/
+venv/
+__pycache__/
+ui-dashboard/node_modules/
+ui-dashboard/.next/
+# Next.js Frontend
+node_modules/
+.next/
+out/
+build/
+
+# Python Backend
+__pycache__/
+*.pyc
+venv/
+.venv/
+env/
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and databases
+*.log
+logs/
