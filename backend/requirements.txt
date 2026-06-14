@@ -7,3 +7,5 @@ fastapi
 uvicorn
 websockets
 shap
+tensorflow
+scapy
